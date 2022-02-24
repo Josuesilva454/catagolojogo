@@ -1,2 +1,2 @@
 # catagolojogo
-josgos
+Meu objetivos e construi catagalo de jogos
